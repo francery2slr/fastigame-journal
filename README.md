@@ -1,2 +1,14 @@
 # fastigame-journal
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
